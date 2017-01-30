@@ -1,0 +1,10 @@
+C:\Classes\CS341\ChicagoCrime\FSLib\bin\Debug\FSLib.XML
+C:\Classes\CS341\ChicagoCrime\FSLib\bin\Debug\FSLib.dll
+C:\Classes\CS341\ChicagoCrime\FSLib\bin\Debug\FSLib.pdb
+C:\Classes\CS341\ChicagoCrime\FSLib\bin\Debug\FSharp.Charting.dll
+C:\Classes\CS341\ChicagoCrime\FSLib\bin\Debug\FSharp.Core.dll
+C:\Classes\CS341\ChicagoCrime\FSLib\bin\Debug\FSharp.Charting.pdb
+C:\Classes\CS341\ChicagoCrime\FSLib\bin\Debug\FSharp.Charting.xml
+C:\Classes\CS341\ChicagoCrime\FSLib\bin\Debug\FSharp.Core.xml
+C:\Classes\CS341\ChicagoCrime\FSLib\obj\Debug\FSLib.dll
+C:\Classes\CS341\ChicagoCrime\FSLib\obj\Debug\FSLib.pdb
